@@ -1,11 +1,3 @@
-//
-//  285A - Slightly Decreasing Permutations.cpp
-//  PracticeOne
-//
-//  Created by Randa H. Moustafa on 04/15/18.
-//  Copyright © 2018 Randa H. Moustafa. All rights reserved.
-//
-
 #include <bits/stdc++.h>
 using namespace std;
 
